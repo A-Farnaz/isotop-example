@@ -1,0 +1,247 @@
+
+<script type="text/javascript" src="http://media.monsoon.co.uk/monsoon/js/jquery-1.7.1.min.js?buildNumber=4782"></script>
+
+
+
+<style type="text/css">
+
+.desktop .standard_container {
+	width:100%!important;
+	margin-bottom:50px;
+}
+/* Sort */
+#sorts, .sort{
+	float:right;
+}
+/* Isotope Holder */
+#content{
+	max-width: 1600px;	
+	margin: 0 auto;
+}
+.items-holder {
+    width: 100%;
+    margin: 50px;
+}
+/* clear fix */
+.isotope:after {
+  	content: '';
+  	display: block;
+  	clear: both;
+}
+/* ---- .element-item ---- */
+.element-item > * {
+  	margin: 0;
+  	padding: 0;
+	outline: 0 !important;
+}
+.element-item{
+	position: relative;
+  	width: 296px;
+  	margin: 10px;
+}
+.element-item .number{
+  	position: absolute;
+  	display:none;
+}
+.copy_container {
+	background-color:rgba(255, 255, 255, 0.7);
+	margin-top:-4px;
+	text-align:center;
+	font-family:'proxima_novaregular', Sans-Serif!important;
+	font:14px;
+	
+	position:absolute;
+	bottom:0px;
+	right:-41px;
+	left:0px;
+	
+}
+
+.element-item a:hover{
+	text-decoration:none;
+	color:#333;
+}
+.element-title {
+	
+	letter-spacing:1.2px;
+	text-transform:uppercase;
+	padding:4px 10px 0px;
+	
+}
+.element-content {
+	font:14px /17px BrandonGrotesque-Regular;
+	letter-spacing:1.2px;	
+	padding:2px 10px 6px;
+}
+ 
+ 
+@media screen and (min-width : 1580px){
+    .items-holder{
+		width:1580px;
+    }
+}
+@media screen and (min-width : 1264px) and (max-width : 1579px) {
+    .items-holder{
+		width:1264px;
+    }
+}
+@media screen and (min-width : 940px) and (max-width : 1279px) {
+    .items-holder{
+		width:948px;
+	}
+}
+@media screen and (max-width: 1172px) {
+	.bodenLogo img {
+		margin-top: -11px !important;
+	}
+}
+
+</style>
+ 
+<div class="items-holder">
+
+	<div class="element-item big-image">
+		<img src="http://media.monsoon.co.uk/assets/images/monsoon/landing/we-love/2015/feb/13022015_UK/M_inspiration_lp_wk24-p1.jpg" alt="" width="336" height="444" style="display: inline;">
+		<div class="copy_container">
+			<!--<p class="number">1</p>-->
+			<p class="element-title">NEW SEASON LOOK BOOK</p>
+			<p class="element-content"><a href="http://uk.monsoon.co.uk/uk/content/features/botanica">BE INSPIRED &gt;</a></p>
+               
+		</div>
+    
+   
+	</div>
+
+
+
+	<div class="element-item small-image">
+		<img src="http://media.monsoon.co.uk/assets/images/monsoon/landing/we-love/2015/feb/13022015_UK/M_inspiration_lp_wk24-p2.jpg" alt="" width="336" height="337" style="display: inline;">
+		<div class="copy_container">
+            <!--<p class="number">1</p>-->
+            <p class="element-title">TO HAVE AND TO HOLD</p>
+            <p class="element-content"><a href="http://uk.monsoon.co.uk/uk/wedding">THE WEDDING BOUTIQUE &gt;</a></p>
+		</div>
+	</div>
+
+
+	<div class="element-item big-image">
+		<img src="http://media.monsoon.co.uk/assets/images/monsoon/landing/we-love/2015/feb/13022015_UK/M_inspiration_lp_wk24-p3.jpg" alt="" width="336" height="444" style="display: inline;">
+		<div class="copy_container">
+            <!--<p class="number">1</p>-->
+            <p class="element-title">CHILDREN'S LOOK BOOK</p>
+            <p class="element-content">BE INSPIRED &gt;</p>
+		</div>
+	</div>
+
+
+	<div class="element-item small-image">
+		<img src="http://media.monsoon.co.uk/assets/images/monsoon/landing/we-love/2015/feb/13022015_UK/M_inspiration_lp_wk24-p4.jpg" alt="" width="337" height="337" style="display: inline;">
+
+		<div class="copy_container">
+            <!--<p class="number">1</p>-->
+            <p class="element-title">IDENTITY & VALUES</p>
+            <p class="element-content"><a href="http://uk.monsoon.co.uk/uk/content/heritage#who-we-are">WHO WE ARE &gt;</a></p>
+		</div>
+	</div>
+
+	<div class="element-item big-image">
+		<img src="http://media.monsoon.co.uk/assets/images/monsoon/landing/we-love/2015/feb/13022015_UK/M_inspiration_lp_wk24-p5.jpg" alt="" width="336" height="444" style="display: inline;">
+
+		<div class="copy_container">
+            <!--<p class="number">1</p>-->
+            <p class="element-title">TRUE BLUE</p>
+            <p class="element-content"><a href="http://uk.monsoon.co.uk/uk/collections/prints?sort=newIn&showAll=true&pageSize=500">SHOP THE COLLECTION &gt;</a></p>
+		</div>
+	</div>
+
+
+	<div class="element-item small-image"> <a href="http://uk.monsoon.co.uk/view/content/reward-card"><img src="http://media.monsoon.co.uk/assets/images/monsoon/landing/we-love/2015/feb/13022015_UK/M_inspiration_lp_wk24-p6.jpg" alt="" width="336" height="337" style="display: inline;"></a>
+
+		<div class="copy_container">
+            <!--<p class="number">1</p>-->
+            <p class="element-title"></p>
+            <p class="element-content"></p>
+		</div>
+	</div>
+
+
+	<div class="element-item big-image">
+		<img src="http://media.monsoon.co.uk/assets/images/monsoon/landing/we-love/2015/feb/13022015_UK/M_inspiration_lp_wk24-p7a.jpg" alt="" width="336" height="444" style="display: inline;">
+
+		<div class="copy_container">
+            <!--<p class="number">1</p>-->
+          <p class="element-title">STEAL THE SPOTLIGHT</p>
+            <p class="element-content"><a href="http://uk.monsoon.co.uk/uk/women/dresses/prom-dresses?sort=priceDescending&showAll=true&pageSize=500">SHOP PROM DRESSES&gt;</a></p>
+		</div>
+	</div>
+
+
+	<div class="element-item small-image"> <a href="http://uk.monsoon.co.uk/uk/content/heritage#artisan"><img src="http://media.monsoon.co.uk/assets/images/monsoon/landing/we-love/2015/feb/13022015_UK/M_inspiration_lp_wk24-p8.jpg" alt="" width="336" height="337" style="display: inline;"></a>
+
+		<div class="copy_container">
+            <!--<p class="number">1</p>-->
+            <p class="element-title"></p>
+            <p class="element-content"></p>
+		</div>
+	</div>
+
+
+	<div class="element-item big-image">
+		<img src="http://media.monsoon.co.uk/assets/images/monsoon/landing/we-love/2015/feb/13022015_UK/M_inspiration_lp_wk24-p9.jpg" alt="" width="337" height="444" style="display: inline;">
+
+		<div class="copy_container">
+            <!--<p class="number">1</p>-->
+            <p class="element-title">WHITE ISLES</p>
+            <p class="element-content"><a href="http://uk.monsoon.co.uk/uk/content/features/white-isles">BE INSPIRED &gt;</a></p>
+		</div>
+	</div>
+
+	<div class="element-item small-image"> <a href="http://uk.monsoon.co.uk/uk/gifts-and-homeware/furniture"><img src="http://media.monsoon.co.uk/assets/images/monsoon/landing/we-love/2015/feb/13022015_UK/M_inspiration_lp_wk24-p10.jpg" alt="" width="336" height="337" style="display: inline;"></a>
+
+		<div class="copy_container">
+            <!--<p class="number">1</p>-->
+            <p class="element-title"></p>
+            <p class="element-content"></p>
+		</div>
+	</div>
+
+	<div class="element-item big-image">
+		<img src="http://media.monsoon.co.uk/assets/images/monsoon/landing/we-love/2015/feb/13022015_UK/M_inspiration_lp_wk24-p11.jpg" alt="" width="336" height="444" style="display: inline;">
+
+		<div class="copy_container">
+            <!--<p class="number">1</p>-->
+            <p class="element-title">CHILDREN'S NEW IN</p>
+            <p class="element-content"><a href="http://uk.monsoon.co.uk/uk/children/new-in?sort=newIn&showAll=true&pageSize=500">SHOP NOW &gt;</a></p>
+		</div>
+	</div>
+
+
+	<div class="element-item small-image">
+		<img src="http://media.monsoon.co.uk/assets/images/monsoon/landing/we-love/2015/feb/13022015_UK/M_inspiration_lp_wk24-p12.jpg" alt="" width="336" height="337" style="display: inline;">
+
+		<div class="copy_container">
+            <!--<p class="number">1</p>-->
+            <p class="element-title">JET SET</p>
+            <p class="element-content"><a href="http://uk.monsoon.co.uk/uk/content/features/jet-set">BE INSPIRED &gt;</a></p>
+		</div>
+	</div>
+
+
+</div>
+
+<script type="text/javascript" src="http://media.monsoon.co.uk/assets/js/landingpage/welove/isotope/isotope.js"></script>
+
+<script type="text/javascript">
+$( function() {
+  
+  $('.items-holder').isotope({
+    itemSelector: '.element-item',
+    masonry: {
+      columnWidth: 200,
+      isFitWidth: true
+    }
+  });
+  
+});
+
+</script>
